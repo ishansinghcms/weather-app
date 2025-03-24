@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Weather Forecast",
   description: "Real-time weather forecast application",
   keywords: ["weather", "forecast", "temperature", "climate"],
-  authors: [{ name: "kx4x" }],
+  authors: [{ name: "Ishan" }],
   creator: "kx4x",
 };
 
