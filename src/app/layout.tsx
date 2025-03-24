@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   title: "Weather Forecast",
   description: "Real-time weather forecast application",
   keywords: ["weather", "forecast", "temperature", "climate"],
-  authors: [{ name: "Ishan" }],
-  creator: "Ishan",
+  authors: [{ name: "Ishan Singh" }],
+  creator: "Ishan Singh",
 };
 
 export default function RootLayout({
